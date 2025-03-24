@@ -16,8 +16,8 @@ I'm Kapil Garaniya
 
 📌 Projects: 
 
-🎯 Book My Doc (Doctor Appointment App) :\n
-🔹 Built using Kotlin, MVVM, Firebase Realtime Database\n
+🎯 Book My Doc (Doctor Appointment App) :/n
+🔹 Built using Kotlin, MVVM, Firebase Realtime Database/n
 🔹 Features: Doctor Search, Appointment Booking, Rating System, Notifications
 
 🎯 Gift Shop App : 
