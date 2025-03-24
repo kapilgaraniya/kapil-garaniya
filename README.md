@@ -16,19 +16,19 @@ I'm Kapil Garaniya
 
 📌 Projects: 
 
-🎯 Book My Doc (Doctor Appointment App)
+🎯 Book My Doc (Doctor Appointment App) :
 🔹 Built using Kotlin, MVVM, Firebase Realtime Database
 🔹 Features: Doctor Search, Appointment Booking, Rating System, Notifications
 
-🎯 Gift Shop App
+🎯 Gift Shop App : 
 🔹 Developed using Retrofit, PHP APIs, JSON Parsing
 🔹 Features: Product Listing, Cart Management, User Authentication
 
-🎯 Quiz App (Android Quiz Game)
+🎯 Quiz App (Android Quiz Game) : 
 🔹 Built using Kotlin, XML, and sqlite
 🔹 Features: Multiple-choice questions, Score tracking, Timer-based quizzes
 
-🎯 Cash Calculator App (Expense & Cash Management App)
+🎯 Cash Calculator App : 
 🔹 Developed using Kotlin, Firebase Database
 🔹 Features: Income & Expense Tracking, Budget Management, History Logs
 
