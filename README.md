@@ -1,7 +1,7 @@
 Hey there! 👋  
 
-I'm**Kapil Garaniya**👨‍💻
-**Android Developer**🚀  
+I'm **Kapil Garaniya** 👨‍💻  
+🚀 **Android Developer**  
 
 ## 👨‍💻 About Me  
 
