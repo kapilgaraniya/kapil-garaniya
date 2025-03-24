@@ -7,7 +7,7 @@ I'm, **Kapil Garaniya** 👨‍💻
 
 🎓 **BCA Graduate** from Saurashtra University  
 📱 **Android Developer** passionate about building mobile apps with **Kotlin & MVVM**  
-🔥 Experienced in **Firebase, Retrofit, MySQL, PHP APIs & REST APIs**  
+🔥 Experienced in **Firebase, Retrofit, PHP APIs & REST APIs**  
 🚀 Currently improving my skills in **Jetpack Compose & Advanced Android Concepts**  
 🎯 I enjoy **debugging, solving errors, and optimizing Android apps**  
 💡 Active on **LinkedIn, YouTube & Instagram**  
